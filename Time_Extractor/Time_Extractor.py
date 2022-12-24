@@ -1,3 +1,5 @@
+#Main file, the "code" is here.
+
 import docx
 class VN_Summary_Extractor:
     def __init__(self, file):

@@ -1,0 +1,9 @@
+You have to install:
+>pip install python-docx
+
+
+Encountered issues
+
+File Handling
+#Issues when trying to open certain files with their path, related to "\" and "\\"
+https://stackoverflow.com/questions/1347791/unicode-error-unicodeescape-codec-cant-decode-bytes-cannot-open-text-file

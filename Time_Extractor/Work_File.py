@@ -1,3 +1,6 @@
+#New parts for the main file, fiddling, tinkering and tests are made here
+#Then implemented into the main file. 
+
 from Time_Extractor import VN_Summary_Extractor
 
 Yuki = VN_Summary_Extractor('終の空 - Yukito.docx')
